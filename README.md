@@ -36,3 +36,5 @@ We tested for input-based HTML injection and confirmed that <iframe> tags are re
 
 
 ![Flag Extraction in Action](./flag.png)
+
+flag is hidden !
