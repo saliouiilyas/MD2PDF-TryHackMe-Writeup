@@ -1,8 +1,4 @@
 # MD2PDF-TryHackMe-Writeup
-Walkthrough of MD2PDF room on TryHackMe
-Perfect — you’re ready to wrap this up into a clean, professional writeup. Here’s the full writeup with an image section and instructions on how to insert the image on GitHub.
-
-⸻
 
 🏴 TryHackMe Writeup: MD2PDF
 
